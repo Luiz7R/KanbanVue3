@@ -14,11 +14,12 @@
 
 Homepage:
 
-![homepageKanban](https://github.com/Luiz7R/KanbanVue3/assets/54550561/53080d96-c613-4109-82dc-1d1e7dbcd999)
+![homepageKanban](https://github.com/Luiz7R/KanbanVue3/assets/54550561/1854a519-d0b1-4baa-a945-8562ec19e207)
+
 
 Modal:
 
-![image](https://github.com/Luiz7R/KanbanVue3/assets/54550561/8beab3bd-117d-452e-948c-c29d4117792d)
+![modalKanban](https://github.com/Luiz7R/KanbanVue3/assets/54550561/eb7cd681-3a7a-4aaf-a2c7-66db0a905122)
 
 =====
 
